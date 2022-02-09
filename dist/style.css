@@ -1,0 +1,12 @@
+header {
+    height: 15vh;
+    margin-bottom: 40px;
+}
+
+h1 {
+    padding: 30px;
+}
+
+p {
+    display: inline;
+}
