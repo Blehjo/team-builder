@@ -19,6 +19,12 @@
   
   In the command line in terminal, run npm start.
   
+  
+
+https://user-images.githubusercontent.com/89440573/153284322-b3749e01-0787-495d-baef-3d75570f6bce.mp4
+
+
+  
   ## Usage 
   
   *Instructions and examples for use:*
